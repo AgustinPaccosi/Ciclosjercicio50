@@ -25,7 +25,6 @@ namespace Ciclosjercicio1
                 if (numero<=15 && numero>=10)
                 {
                     entre10y15++;
-
                     sumaentre += numero;
                 }
                 else if(numero<7)
